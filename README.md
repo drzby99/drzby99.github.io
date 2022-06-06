@@ -1,2 +1,2 @@
-# Alan's tech journey!
+# Alan's GSoC journey!
 This will serve to record my progress through the Google Summer of Code Program in 2022. Stay tuned for weekly updates!
